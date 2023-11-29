@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studentreg", "studentreg\studentreg.csproj", "{D8EC0163-6A20-4B89-9A48-07FA6B5D0162}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup007", "Setup007\Setup007.vdproj", "{A9AB84A4-7601-47AF-80D8-A3198D167C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8EC0163-6A20-4B89-9A48-07FA6B5D0162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EC0163-6A20-4B89-9A48-07FA6B5D0162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EC0163-6A20-4B89-9A48-07FA6B5D0162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EC0163-6A20-4B89-9A48-07FA6B5D0162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AB84A4-7601-47AF-80D8-A3198D167C12}.Debug|Any CPU.ActiveCfg = Debug
+		{A9AB84A4-7601-47AF-80D8-A3198D167C12}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951D8C14-716C-434F-A657-EABC7C37CECF}
+	EndGlobalSection
+EndGlobal
